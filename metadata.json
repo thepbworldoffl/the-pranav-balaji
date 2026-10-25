@@ -1,0 +1,8 @@
+{
+  "name": "PB World",
+  "description": "Official company website for PB World: Game Development, Animation and Film, Visual Effects (VFX), and App Development.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
